@@ -2,7 +2,7 @@
 name: Requirement
 about: Describe a new requirement
 title: ''
-labels: requirement
+labels: 'type: requirement'
 assignees: ''
 
 ---
