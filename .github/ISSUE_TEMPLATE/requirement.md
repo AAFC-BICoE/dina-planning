@@ -1,6 +1,6 @@
 ---
 name: Requirement
-about: Describe the requirement
+about: Describe a new requirement
 title: ''
 labels: requirement
 assignees: ''
