@@ -2,15 +2,15 @@
 name: Requirement
 about: Describe the requirement
 title: ''
-labels: ''
+labels: requirement
 assignees: ''
 
 ---
 
 GIVEN I have accessed DINA as [a role]
 
-WHEN [please describe the action]
+WHEN [describe the action initiated by the user]
 
-THEN [please describe the response of the system]
+THEN [describe the response of the system]
 
 AND [describe additional action(s) from the system]
