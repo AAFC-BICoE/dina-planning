@@ -1,7 +1,7 @@
 # dina-planning
 
 * [Roadmap to Release 1](https://github.com/AAFC-BICoE/dina-planning/projects/9)
-* [Roadmap to Release 2]https://github.com/AAFC-BICoE/dina-planning/projects/11)
+* [Roadmap to Release 2](https://github.com/AAFC-BICoE/dina-planning/projects/11)
 
 # Usage
 * Main unit of work is [issue](https://github.com/AAFC-BICoE/dina-planning/issues)
