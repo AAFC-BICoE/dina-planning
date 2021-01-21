@@ -5,7 +5,7 @@
 In DINA, groups are used to define a set of user. Mainly a natural history collection or a lab.
 A user can belong to more than 1 group.
 
-Groups are also used to defined who own an object. For example, an object in the object store always belong to a group.
+Groups are also used to defined who owns an object. For example, an object in the object store always belongs to a group.
 Objects can only have 1 owner.
 
 
@@ -23,6 +23,6 @@ Current roles are:
 ## Permissions
 
 * Admins can do everything
-* Read permission to all authenticated user
-* For most of the objects, Write permission to all members of a group for objects within that same group
-* For some objects, Write permission to Collection Manager only
+* Read permission are given to all authenticated user
+* For most of the objects, all members of a group will have Write permission for objects within that same group
+* For some objects, Write permission are only available to the Collection Manager role
