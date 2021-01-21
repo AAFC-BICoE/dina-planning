@@ -2,7 +2,7 @@
 
 ## Groups
 
-In DINA, groups are used to define a set of user. Mainly a natural history collection or a lab.
+In DINA, groups are used to define a set of users. Mainly a natural history collection or a laboratory.
 A user can belong to more than 1 group.
 
 Groups are also used to defined who owns an object. For example, an object in the object store always belongs to a group.
