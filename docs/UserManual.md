@@ -26,3 +26,7 @@ Current roles are:
 * Read permission are given to all authenticated user
 * For most of the objects, all members of a group will have Write permission for objects within that same group
 * For some objects, Write permission are only available to the Collection Manager role
+
+## Identifiers
+
+All object in DINA are identified with UUID (universally unique identifier). While this type of identifier is not considered human-readable (123e4567-e89b-12d3-a456-426614174000) it has the property to be virtually universally unique (chances of duplicates are close enough to zero to be considered negligible). Objects can be uniquely identifed even outside DINA the DINA system.
