@@ -17,5 +17,8 @@ In natural history collections, the material sample is typically collected, and 
 ## Person
 A definitive, canonical representation of a human in the Agent module.
 
+## Preparation Type
+A noun representing the state of a material sample. Examples: sheet, liquid nitrogen
+
 ## Reverse geocoding
 Reverse geocoding is the process of converting a location as described by geographic coordinates (latitude, longitude) to a human-readable place name.
