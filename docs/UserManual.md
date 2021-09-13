@@ -24,8 +24,8 @@ Current roles are:
 
 * Admins can do everything
 * Read permission are given to all authenticated user
-* For most of the objects, all members of a group will have Write permission for objects within that same group
-* For some objects, Write permission are only available to the Collection Manager role
+* For most of the objects, all members of a group will have Write permission for objects within that same group (Collecting-Event, Material Sample)
+* For some objects, Write permission are only available to the Collection Manager role (Agent, Managed Attribute)
 
 ## Identifiers
 
