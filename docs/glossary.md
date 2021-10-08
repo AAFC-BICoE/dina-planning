@@ -14,6 +14,11 @@ A physical result of a sampling event.
 
 In natural history collections, the material sample is typically collected, and either preserved or destructively processed. (from Darwin Core)
 
+## Material Sample State
+
+## Material Sample Type
+Whole organism, Molecular Sample, organism part or mixed organism.
+
 ## Person
 A definitive, canonical representation of a human in the Agent module.
 
