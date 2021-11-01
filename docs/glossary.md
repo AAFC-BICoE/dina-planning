@@ -17,7 +17,8 @@ In natural history collections, the material sample is typically collected, and 
 ## Material Sample State
 
 ## Material Sample Type
-Whole organism, Molecular Sample, organism part or mixed organism.
+A Material Sample is a physical result of a sampling (or subsampling) event. In biological collections, the material sample is typically collected, and either preserved or destructively processed. A Material Sample Type is a system-defined term that prescribes the downstream expectations and logic in how derivative (or child) Material Samples are to be interpreted and digitally managed.
+Fixed values include: Whole Organism, Molecular Sample, Organism Part or Mixed Organisms.
 
 ## Person
 A definitive, canonical representation of a human in the Agent module.
