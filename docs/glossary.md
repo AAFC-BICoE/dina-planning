@@ -1,5 +1,5 @@
-## agent string
-Verbatim representation purported to represent one or more humans or one or more organizations stored external to the Agent module whose identity requires disambiguation through just-in-time linking or some future disambiguation routine.
+## Agent String
+In-place, in-context verbatim, character-by-character representations of one or more person and/or one or more organization. Example: "M. et Mme Jacques Brossard" as Verbatim Collector in a Collecting Event.
 
 ## Geographic names
 Names of any geographical or topographical feature of public or historical interest. A geographical name is a proper noun applied to a natural, man-made or cultural feature on Earth. A feature can have different names in one or several languages and the names may be provided, together with appropriate information on the feature, in different products like maps and gazetteers as well as respective services. Based on defintion from [EU INSPIRE](https://inspire.ec.europa.eu/theme/gn).
@@ -21,7 +21,7 @@ A Material Sample is a physical result of a sampling (or subsampling) event. In 
 Fixed values include: Whole Organism, Molecular Sample, Organism Part or Mixed Organisms.
 
 ## Person
-A definitive, canonical representation of a human in the Agent module.
+A definitive, canonical representation of a human in the Agent module that has been ideally disambiguated through inclusion of an externally referenced identifier.
 
 ## Preparation Type
 A noun representing the state of a material sample. Examples: sheet, liquid nitrogen
