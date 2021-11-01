@@ -3,6 +3,9 @@
 * [Roadmap to Release 1](https://github.com/AAFC-BICoE/dina-planning/projects/9)
 * [Roadmap to Release 2](https://github.com/AAFC-BICoE/dina-planning/projects/11)
 
+# Glossary
+[Glossary](https://github.com/AAFC-BICoE/dina-planning/blob/master/docs/glossary.md) of terms used in DINA.
+
 # Usage
 * Main unit of work is [issue](https://github.com/AAFC-BICoE/dina-planning/issues)
 * [Projects](https://github.com/AAFC-BICoE/dina-planning/projects) are views for the clients representing status of the current known requirements/issues
