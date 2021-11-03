@@ -15,6 +15,7 @@ A physical result of a sampling event.
 In natural history collections, the material sample is typically collected, and either preserved or destructively processed. (from Darwin Core)
 
 ## Material Sample State
+Represents the state od a material sample when its condition is negatively impacted. Fixed values include: destroyed, damaged, lost or decommissioned
 
 ## Material Sample Type
 A Material Sample is a physical result of a sampling (or subsampling) event. In biological collections, the material sample is typically collected, and either preserved or destructively processed. A Material Sample Type is a system-defined term that prescribes the downstream expectations and logic in how derivative (or child) Material Samples are to be interpreted and digitally managed.
