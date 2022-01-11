@@ -32,11 +32,17 @@ Current roles are:
 
 Users (when enabled) can access the system. What a user can and cannot do is based on the group(s)/permission(s). When using an external Identity Provider (e.g. ESAS) the user account must be linked to the Identity Provider account. Once done, the user will be able to use a third-party authentication (e.g. ESAS) to access the system.
 
+### Managed Attributes
+
+Managed attributes are attributes that can be created and used by the users on-demand. They are usually used to track data that is not common enough to be captured in a regular field.
+
 ## Collection Component
 
 ### Collection
 
 A Collection represents the top entity that can contain material-sample. Top collections (or parent collections) generally represent a natural history collection or a laboratory. A collection can contain multiple sub-collection(s).
+
+### Project
 
 ## Agent Component
 
