@@ -1,15 +1,18 @@
 # AAFC-DINA User Manual
 
-## Groups
+## Collection
 
-In DINA, groups are used to define a set of users. Mainly a natural history collection or a laboratory.
+A Collection represents the top entity that can contain material-sample. Top collections (or parent collections) generally represent a natural history collection or a laboratory. A collection can contain multiple sub-collection(s).
+
+## Group
+
+Groups are used to define set of users for administration purpose (mostly permissions). They usually align with collections.
 A user can belong to more than 1 group.
 
 Groups are also used to defined who owns an object. For example, an object in the object store always belongs to a group.
 Objects can only have 1 owner.
 
-
-## Roles
+## Role
 
 Roles are specific to groups. A Collection Manager in Group A is not Collection Manager in Group B.
 
